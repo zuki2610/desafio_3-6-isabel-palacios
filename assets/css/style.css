@@ -18,7 +18,7 @@ section {
     padding: 0 20px;
 }
 .card {
-    margin-left: 40%;
+    margin-left: 25%;
     margin-top: 5vh;
     box-shadow: inset 0 -3em em rgba(92, 187, 255, 0.339),
     0 0  0 2px rgba(65, 86, 95, 0.595),
@@ -26,4 +26,7 @@ section {
 }
 .chart {
     margin-left: 15vw;
+}
+button {
+    width: 100px;;
 }
